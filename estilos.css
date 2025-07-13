@@ -1,0 +1,35 @@
+.texto-menor{
+    font-size: 13px;
+}
+.divs-facilidades{
+    width: 325px;
+}
+
+.verde-limao {
+    color: #DAFF01;
+}
+.botao-lilas {
+    background-color: #9353FF;
+    width: 80px;
+    border: 0;
+    height: 34px;
+    color: white;
+
+}
+.facilidades{
+    margin-top: 15px;
+}
+.div-novidades{
+    width:600px;
+    background-color: black;
+    color: white;
+}
+.site{
+    background-color: grey;
+}
+.button-enviar{
+    background-color: #9353FF;
+}
+.button-enviar:hover{
+    background-color: #DAFF01;
+}
