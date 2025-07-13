@@ -75,7 +75,7 @@ Esse projeto me ajudou a praticar:
 
 **Waldemar Leonardo**  
 🔗 [GitHub](https://github.com/Waldemarleo)  
-🔗 [LinkedIn](www.linkedin.com/in/waldemar-leonardo)
+🔗 [LinkedIn](https://www.linkedin.com/in/waldemar-leonardo/)
 
 ---
 
