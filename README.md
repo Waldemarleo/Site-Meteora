@@ -31,7 +31,6 @@ O layout se adapta perfeitamente aos tamanhos:
 
 - `HTML5`
 - `CSS3`
-- `JavaScript`
 - `Bootstrap 5.3`
 - `Ícones via Bootstrap Icons CDN`
 
